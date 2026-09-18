@@ -9,8 +9,7 @@ The Expense Tracker allows users to record transactions, categorize expenses, mo
 ## 🌐 Live Demo
 
 🔗 **Live Website:**  
-https://gaurilngale208-bit.github.io/expense-tracker/
-
+https://gauriingale208-bit.github.io/expense-tracker/
 ---
 
 ## 📌 Project Overview
